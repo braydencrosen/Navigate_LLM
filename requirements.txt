@@ -1,0 +1,8 @@
+openai
+httpx
+sentence-transformers
+transformers
+torch
+reportlab
+scikit-learn
+matplotlib

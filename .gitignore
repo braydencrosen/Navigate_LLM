@@ -1,0 +1,11 @@
+# Python
+__pycache__
+.idea
+.venv
+.vscode
+
+# Data
+log.jsonl
+event_vectors.jsonl
+events.csv
+Computation_Data
